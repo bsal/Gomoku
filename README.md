@@ -13,4 +13,4 @@ To implement your own player:
 
 -Move class has two field row and col (both between 0 and 7) and public contructor Move(int row, int col)
 
--After code completion compile (javac *.java) and run (java GomokuRefere)
+-After code completion compile (javac *.java) and run (java GomokuReferee)
